@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/opp_abstract/opp_abstract.iml" filepath="$PROJECT_DIR$/opp_abstract/opp_abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_code2.iml" filepath="$PROJECT_DIR$/opp_code2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_codeblock/opp_codeblock.iml" filepath="$PROJECT_DIR$/opp_codeblock/opp_codeblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_extends/opp_extends.iml" filepath="$PROJECT_DIR$/opp_extends/opp_extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_final/opp_final.iml" filepath="$PROJECT_DIR$/opp_final/opp_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_innerclass/opp_innerclass.iml" filepath="$PROJECT_DIR$/opp_innerclass/opp_innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_interface/opp_interface.iml" filepath="$PROJECT_DIR$/opp_interface/opp_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opp_jurisdiction/opp_jurisdiction.iml" filepath="$PROJECT_DIR$/opp_jurisdiction/opp_jurisdiction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+    </modules>
+  </component>
+</project>
